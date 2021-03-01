@@ -4,7 +4,6 @@
 
 #include <libcouchbase/couchbase.h>
 #include <libcouchbase/pktfwd.h>
-#include <libcouchbase/views.h>
 #include <string>
 #include <stdint.h>
 #include <map>
