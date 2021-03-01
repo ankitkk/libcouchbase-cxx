@@ -3,7 +3,6 @@
 #define LCB_PLUSPLUS_H
 
 #include <libcouchbase/couchbase.h>
-#include <libcouchbase/api3.h>
 #include <libcouchbase/pktfwd.h>
 #include <libcouchbase/views.h>
 #include <string>
